@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post."
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post."
+    },
+    {
+        "id": 3,
+        "author": "Alice Smith",
+        "title": "Third Post",
+        "content": "Yet another blog post."
+    },
+    {
+        "id": 4,
+        "author": "Bob Johnson",
+        "title": "Fourth Post",
+        "content": "This is a new post on the blog."
+    },
+    {
+        "id": 5,
+        "author": "Charlie Brown",
+        "title": "Fifth Post",
+        "content": "Sharing some thoughts in this post."
+    },
+    {
+        "id": 6,
+        "author": "Diana Prince",
+        "title": "Sixth Post",
+        "content": "Exploring new ideas and perspectives."
+    },
+    {
+        "id": 7,
+        "author": "Clark Kent",
+        "title": "Seventh Post",
+        "content": "Writing about journalism and storytelling."
+    },
+    {
+        "id": 8,
+        "author": "Bruce Wayne",
+        "title": "Eighth Post",
+        "content": "Thoughts on business and innovation."
+    },
+    {
+        "id": 9,
+        "author": "Selina Kyle",
+        "title": "Ninth Post",
+        "content": "A unique take on modern living."
+    },
+    {
+        "id": 10,
+        "author": "Barry Allen",
+        "title": "Tenth Post",
+        "content": "Discussing the speed of technological change."
+    }
+]
